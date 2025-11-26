@@ -57,7 +57,7 @@ def resumo_eletrico():
     print("Circuito com menor fator de potência:", menor_fp[0], "-", menor_fp[4])
     print("Total de circuitos fora da faixa:", len(fora))
 
-def gmod_extra():
+def mod_extra():
     tin = 0
     tout = 0
     ups=False
